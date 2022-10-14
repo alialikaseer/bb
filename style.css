@@ -1,0 +1,50 @@
+img{
+    width: 100%;
+}
+.m-n{
+    
+    height: 827px;
+    width: 100%;
+    background-color: rgba(45, 12, 66, 0.966) ;
+    position: relative;
+}
+.w{
+    width: 1050px;
+    height: 600px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: rgba(250, 235, 215, 0.719);
+    border-radius: 10px;
+    box-shadow: 1px 4px 22px -8px rgba(120, 7, 196, 0.267);
+    display: flex;
+
+}
+.one{
+    width: 41%;
+    height: 100%;
+    
+    background-color: aliceblue;
+}
+
+.two{
+    background-image: url("/k.jbg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 59%;
+}
+h2{
+    text-align: center;
+    font-family:Serif ;
+padding: 75% 0% 100px ;
+    background-color: rgba(255, 20, 145, 0.205);
+    color: aliceblue;
+    
+}
+.y{
+    
+    width: 50%;
+margin: 50% 30%;
+
+}
